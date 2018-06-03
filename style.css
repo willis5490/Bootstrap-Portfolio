@@ -1,0 +1,93 @@
+header{
+    background-color: rgba(0, 0, 0, 0.644);
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+footer{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+#copy{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 15px;
+}
+.pic{
+    width: 250px;
+    height: 250px;
+    padding: 15px;
+}
+
+.info{
+    font-size: 13px;
+    color: white;
+}
+#cont{
+    text-align: center;
+}
+
+#re{
+    width: 100%;
+    margin-top: 30px;
+}
+#pics{
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+}
+
+#pic:hover{
+    width: 400px;
+}
+#card2{
+    background: url(desert-sky.jpg)
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+#y123{
+    color: white;
+}
+#about12{
+    background: url(fun12.jpg)
+}
+#about13{
+    background-color: rgba(27, 63, 63, 0.199);
+}
+#fun12{
+    background: url(fun12.jpg)
+}
+#jumbo{
+    background-color: rgba(245, 245, 245, 0.692);
+}
+#name123{
+    color: whitesmoke;
+}
+#port123{
+    background: url(fun12.jpg)
+}
+#card1{
+    background-color: rgba(0, 0, 0, 0.568);
+}
+#butter{
+    width: 100%;
+    background-color: rgba(29, 10, 100, 0.541);
+}
+#bod{
+    margin-top: 15px;
+}
+.modal-content{
+    background: url(spacey.jpg)
+}
+#killa
+{
+    color: whitesmoke;
+}
+.modal-title{
+    color: whitesmoke;
+}
