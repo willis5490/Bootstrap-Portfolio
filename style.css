@@ -91,3 +91,12 @@ ul{
 .modal-title{
     color: whitesmoke;
 }
+.deploy{
+    margin-top: 55px;
+}
+.port{
+    margin: 15px;
+}
+#cont1{
+    text-align: center;
+}
